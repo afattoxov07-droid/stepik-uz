@@ -1,0 +1,6 @@
+{
+  "name": "Stepik UZ: SQL Akademiya",
+  "description": "Brauzerda real SQLite bazasi (sql.js) bilan ishlovchi o'zbek tilidagi interaktiv SQL o'quv platformasi — 5 ta modul, 15 ta amaliy dars, avtomatik tekshirish va sertifikat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
